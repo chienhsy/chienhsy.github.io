@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+# About
+I am a PhD Candidate in economics at Australian National University.
+My research interests are dynamic programming, economic networks, and economic computation. 
+
 # Working Papers
 ## [Dynamic Programming with State-Action-Dependent Discounting]()
 
