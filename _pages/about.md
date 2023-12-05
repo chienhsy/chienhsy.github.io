@@ -49,7 +49,7 @@ higher volatility than larger ones. This paper aims to provide an explanation fo
 this systematic deviation. Utilizing a hierarchical production network, we demonstrate that upstream firms, which tend to be smaller, display more volatility than
 downstream firms. The model also offers an explanation for the observation that the firm size distribution follows a power law.
 
-# Teaching
+# Teaching Assistance
 
 [Optimisation for Economics and Financial Economics](https://programsandcourses.anu.edu.au/2024/course/ECON2125)
 
