@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About
-I am a PhD Candidate in economics at Australian National University.
+I am a PhD Candidate in the Research School of Economics at Australian National University.
 My research interests are dynamic programming, economic networks, and economic computation. 
 
 # Working Papers
@@ -27,11 +27,10 @@ applications involving risk-sensitive preferences.
 
 This paper extends model-free learning algorithms, including Q-learning,
 SARSA, and double Q-learning to the learning with state-action-dependent discount
-factors. We allow the discount factor to be greater than one with positive proba-
-bility, but the expected multiplicative of discount factors satisfies the "eventually
-discounting" condition in the sense that we replace β < 1 by ρ(L) < 1, where ρ(L)
-denotes the spectral radius of an appropriate matrix dominating the expected dis-
-counted future value.
+factors. We allow the discount factor to be greater than one with positive probability, 
+but the expected multiplicative of discount factors satisfies the "eventually
+discounting" condition in the sense that we replace $β < 1$ by $ρ(L) < 1$, where $ρ(L)$
+denotes the spectral radius of an appropriate matrix dominating the expected discounted future value.
 
 ## [Uniqueness of Equilibria in Interactive Networks]()
 
@@ -44,10 +43,16 @@ Applying the equilibrium in the study of systemic risk, we provide a measure to 
 One of the most well-known ”laws” in economics is Gibrat’s Law of
 proportionate effect. Concerning firm dynamics, Gibrat’s law predicts that firm
 growth will be independent of its size. While Gibrat’s Law is frequently used as a
-benchmark in models of industry dynamics, the majority of recent empirical liter-
-ature demonstrates a systematic departure from Gibrat’s Law: small firms exhibit
+benchmark in models of industry dynamics, the majority of recent empirical literature demonstrates a systematic departure from Gibrat’s Law: small firms exhibit
 higher volatility than larger ones. This paper aims to provide an explanation for
-this systematic deviation. Utilizing a hierarchical production network, we demon-
-strate that upstream firms, which tend to be smaller, display more volatility than
-downstream firms. The model also offers an explanation for the observation that
-the firm size distribution follows a power law.
+this systematic deviation. Utilizing a hierarchical production network, we demonstrate that upstream firms, which tend to be smaller, display more volatility than
+downstream firms. The model also offers an explanation for the observation that the firm size distribution follows a power law.
+
+# Teaching
+
+[Optimisation for Economics and Financial Economics](https://programsandcourses.anu.edu.au/2024/course/ECON2125)
+[Foundations of Economic and Financial Models](https://programsandcourses.anu.edu.au/2024/course/EMET1001)
+[Macroeconomics 3](https://programsandcourses.anu.edu.au/2024/course/ECON3102)
+[Money and Banking](https://programsandcourses.anu.edu.au/2024/course/ECON2026)
+[Business and Economic Forecasting](https://programsandcourses.anu.edu.au/course/emet3007)
+[Macroeconomics 2](https://programsandcourses.anu.edu.au/2024/course/ECON2102)
