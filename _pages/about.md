@@ -11,6 +11,7 @@ redirect_from:
 # About
 I am a PhD Candidate in the Research School of Economics at Australian National University.
 My research interests are dynamic programming, economic networks, and economic computation. 
+Here is my [Curriculum Vitae](/files/resume.pdf).
 
 # Working Papers
 ## [Dynamic Programming with State-Action-Dependent Discounting]()
