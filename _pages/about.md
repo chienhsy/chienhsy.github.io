@@ -51,8 +51,13 @@ downstream firms. The model also offers an explanation for the observation that 
 # Teaching
 
 [Optimisation for Economics and Financial Economics](https://programsandcourses.anu.edu.au/2024/course/ECON2125)
+
 [Foundations of Economic and Financial Models](https://programsandcourses.anu.edu.au/2024/course/EMET1001)
+
 [Macroeconomics 3](https://programsandcourses.anu.edu.au/2024/course/ECON3102)
+
 [Money and Banking](https://programsandcourses.anu.edu.au/2024/course/ECON2026)
+
 [Business and Economic Forecasting](https://programsandcourses.anu.edu.au/course/emet3007)
+
 [Macroeconomics 2](https://programsandcourses.anu.edu.au/2024/course/ECON2102)
