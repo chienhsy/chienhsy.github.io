@@ -14,7 +14,7 @@ My research interests are dynamic programming, economic networks, and economic c
 Here is my [Curriculum Vitae](/files/resume.pdf).
 
 # Working Papers
-## [Dynamic Programming with State-Action-Dependent Discounting](/files/dsadd_v2.pdf)
+## [Dynamic Programming with State-Action-Dependent Discounting](/files/dpsadd_v2.pdf)
 
 In this paper, we extend the discrete-time dynamic programming to
 the case of state-action-dependent discounting. We establish a sufficient condition
