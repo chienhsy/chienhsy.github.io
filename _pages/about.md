@@ -14,7 +14,7 @@ My research interests are dynamic programming, economic networks, and economic c
 Here is my [Curriculum Vitae](/files/resume.pdf).
 
 # Working Papers
-## [Dynamic Programming with State-Action-Dependent Discounting]()
+## [Dynamic Programming with State-Action-Dependent Discounting](/files/dsadd_v2.pdf)
 
 In this paper, we extend the discrete-time dynamic programming to
 the case of state-action-dependent discounting. We establish a sufficient condition
@@ -24,7 +24,7 @@ compact. Our research encompasses dynamic programming with both bounded and
 unbounded rewards. Furthermore, we extend the scope of eventual discounting to
 applications involving risk-sensitive preferences.
 
-## [Temporal-Difference Learning with State-Action-Dependent Discounting]()
+## [Temporal-Difference Learning with State-Action-Dependent Discounting](/files/Qsadd_v2.pdf)
 
 This paper extends model-free learning algorithms, including Q-learning,
 SARSA, and double Q-learning to the learning with state-action-dependent discount
@@ -33,13 +33,13 @@ but the expected multiplicative of discount factors satisfies the "eventually
 discounting" condition in the sense that we replace $β < 1$ by $ρ(L) < 1$, where $ρ(L)$
 denotes the spectral radius of an appropriate matrix dominating the expected discounted future value.
 
-## [Uniqueness of Equilibria in Interactive Networks]()
+## [Uniqueness of Equilibria in Interactive Networks](/files/unique_network_v2.pdf)
 
 We study a unified network framework and show that equilibrium exists and is unique (almost surely) under either eventually contracting or non-expansive assumptions.
 We also discuss the computation methods and show the necessity of boundedness conditions when interaction functions are non-expansive.
 Applying the equilibrium in the study of systemic risk, we provide a measure to determine the key player who causes the most significant impact if removed from the network. 
 
-## [Explaining Systematic Departures from Gibrat’s Law]()
+## [Explaining Systematic Departures from Gibrat’s Law](/files/Depature_Gibrat_v2.pdf)
 
 One of the most well-known ”laws” in economics is Gibrat’s Law of
 proportionate effect. Concerning firm dynamics, Gibrat’s law predicts that firm
