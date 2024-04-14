@@ -50,9 +50,11 @@ this systematic deviation. Utilizing a hierarchical production network, we demon
 downstream firms. The model also offers an explanation for the observation that the firm size distribution follows a power law.
 
 # Other Projects
-- [Forecasting project](files/project.pdf)
-- 
+- [Forecasting project](files/project.pdf) 
+
   This is a project for EMET8012 course, which I completed during my master's studies.
+
+- [Zurcher as a Q-learner](Zurcher_slides.pdf)
 
 # Teaching Assistance
 
