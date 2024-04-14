@@ -54,7 +54,7 @@ downstream firms. The model also offers an explanation for the observation that 
 
   This is a project for EMET8012 course, which I completed during my master's studies.
 
-- [Zurcher as a Q-learner](Zurcher_slides.pdf)
+- [Zurcher as a Q-learner](files/Zurcher_slides.pdf)
 
 # Teaching Assistance
 
