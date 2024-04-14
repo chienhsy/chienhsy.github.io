@@ -51,6 +51,7 @@ downstream firms. The model also offers an explanation for the observation that 
 
 # Other Projects
 - [Forecasting project](files/project.pdf)
+- 
   This is a project for EMET8012 course, which I completed during my master's studies.
 
 # Teaching Assistance
