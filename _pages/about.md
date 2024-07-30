@@ -56,6 +56,14 @@ downstream firms. The model also offers an explanation for the observation that 
 
 - [Zurcher as a Q-learner](files/Zurcher_slides.pdf)
 
+- [Power and Size Analysis in Two-Stage Least Squares (TSLS) Models with Weak Instruments](files/CaseStudy.pdf)
+This is a project for EMET8002 course.
+Abstract:
+In instrumental variables (IV) regression, particularly using Two-Stage Least Squares (TSLS), the reliability of traditional inference methods can be compromised when instruments are weak—meaning they exhibit a low correlation with the endogenous explanatory variables. This project investigates the distribution of IV estimators under such conditions and examines the performance of various tests, particularly the Anderson-Rubin (AR) test.
+
+- [Analyzing Herfindahl Index for Pareto and Log-Normal Distributions](files/Matching_log_normal_distribution_to_Pareto_distribution_under_Zipf_law.pdf)
+This project compares Pareto and log-normal distributions under Zipf’s law by analyzing the Herfindahl index, a measure of market concentration. The goal was to understand how well the log-normal distribution, when adjusted, matches the Pareto distribution in terms of the Herfindahl index and other statistical properties.
+
 # Teaching Assistance
 
 [Optimisation for Economics and Financial Economics](https://programsandcourses.anu.edu.au/2024/course/ECON2125)
